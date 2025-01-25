@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Welcome to the New Semester",
+      "content": "We are excited to start a new semester. Please check the schedule for updates.",
+      "author": "Mr. Ahmed Mostafa",
+      "date": "2023-10-01"
+    },
+    {
+      "id": 2,
+      "title": "Physics 02 Class Update",
+      "content": "The Physics 02 class will be rescheduled to next week. Stay tuned for more updates.",
+      "author": "Mrs. Salma Ahmed",
+      "date": "2023-10-05"
+    },
+    {
+      "id": 3,
+      "title": "Midterm Exam Schedule",
+      "content": "The midterm exams will begin next week. Please check the schedule for your exam dates.",
+      "author": "School Management",
+      "date": "2023-10-10"
+    }
+  ]

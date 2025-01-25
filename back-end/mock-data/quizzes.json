@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Unit 2 Quiz",
+      "dueDate": "2023-12-30T18:00:00Z",
+      "topic": "Linear Motion and Forces",
+      "course": "Physics 02"
+    },
+    {
+      "id": 2,
+      "title": "12-12 Assignment",
+      "dueDate": "2023-12-20T18:00:00Z",
+      "topic": "Introduction to Java",
+      "course": "Computer Science 101"
+    },
+    {
+      "id": 3,
+      "title": "Midterm Quiz",
+      "dueDate": "2023-11-15T18:00:00Z",
+      "topic": "Thermodynamics",
+      "course": "Physics 02"
+    }
+  ]
