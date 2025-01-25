@@ -47,5 +47,5 @@ This project is a full-stack application built for the Anyware Software Full Sta
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/Youssef-joe/anyware-software-challenge.git
-cd anyware-software-challenge
+git clone https://github.com/Youssef-joe/anyware-challenge.git
+cd anyware-challenge
